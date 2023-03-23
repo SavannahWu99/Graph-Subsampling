@@ -1,21 +1,21 @@
-## Graph-Subsampling
+# Graph-Subsampling
 Code for [ICLR 2023] Subsampling in Large Graphs Using Ricci Curvature
 
 
-# Environment:
+## Environment:
 Python 3.7
 
-# Required Packages:
+## Required Packages:
 
 little ball of fur. 2.2.2
 networkx >=2.0, < 2.7
 GraphRicciCurvature 0.5.3.1
 
 
-# Example code:
+## Example code:
 ORG_sub.py
 
-# Real world dataset in the paper:
+## Real world dataset in the paper:
 The adjacency matrix of the political books:
 adj_polbook.csv
 The adjacency matrix of the political blogs:
