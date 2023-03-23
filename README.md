@@ -7,8 +7,8 @@ Python 3.7
 
 ## Required Packages:
 
-little ball of fur. 2.2.2\\
-networkx >=2.0, < 2.7\\
+little ball of fur. 2.2.2<br />
+networkx >=2.0, < 2.7<br />
 GraphRicciCurvature 0.5.3.1
 
 
