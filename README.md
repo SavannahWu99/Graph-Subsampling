@@ -7,8 +7,8 @@ Python 3.7
 
 ## Required Packages:
 
-little ball of fur. 2.2.2
-networkx >=2.0, < 2.7
+little ball of fur. 2.2.2\\
+networkx >=2.0, < 2.7\\
 GraphRicciCurvature 0.5.3.1
 
 
@@ -16,7 +16,7 @@ GraphRicciCurvature 0.5.3.1
 ORG_sub.py
 
 ## Real world dataset in the paper:
-The adjacency matrix of the political books:
+The adjacency matrix of the political books:\\
 adj_polbook.csv
 The adjacency matrix of the political blogs:
 adj_polblog.csv
