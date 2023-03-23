@@ -2,7 +2,7 @@
 Code for [ICLR 2023] Subsampling in Large Graphs Using Ricci Curvature
 
 
-Environment:
+\bf{Environment}:
 Python 3.7
 
 Required Packages:
